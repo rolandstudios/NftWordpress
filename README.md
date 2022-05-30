@@ -1,2 +1,0 @@
-# NftWordpress
-RolandStudios NFT Site
