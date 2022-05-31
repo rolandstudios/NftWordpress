@@ -1,0 +1,2 @@
+.e-container.e-container--row .elementor-spacer-inner {width: var(--spacer-size);}
+.e-container.e-container--column .elementor-spacer-inner, .elementor-column .elementor-spacer-inner {height: var(--spacer-size);}
